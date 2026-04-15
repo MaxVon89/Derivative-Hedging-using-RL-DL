@@ -3,6 +3,7 @@ pandas
 scipy
 matplotlib
 seaborn
+plotly
 torch
 gymnasium
 stable-baselines3
