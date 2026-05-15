@@ -140,7 +140,7 @@ h1,h2,h3{color:#e2e8f0!important;}
 .stTabs [data-baseweb="tab"]{background:transparent;color:#334155;
     font-family:'JetBrains Mono',monospace;font-size:12px;padding:9px 22px;border-radius:0;}
 .stTabs [aria-selected="true"]{color:#60a5fa!important;border-bottom:2px solid #2563eb!important;}
-#MainMenu,footer,header{visibility:hidden;}
+#MainMenu,footer,{visibility:hidden;}
 </style>
 """, unsafe_allow_html=True)
 
